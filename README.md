@@ -100,9 +100,6 @@ Strengthen problem-solving for coding interviews
 
 🧑‍💻 Author
 Soumyadeep Dutta
-📍 KIIT University | Pythonista | AI-ML Explorer
-📧 soumyadeep0989@gmail.com
-🌐 LinkedIn • GitHub
 
 🙌 Contribution
 Found a bug or want to add a new structure?
