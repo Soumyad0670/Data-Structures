@@ -58,10 +58,10 @@ int main() {
     scanf("%d", &position);
     head = insertAtPosition(head, position); 
     printf("\nLinked list after insertion: ");
-    struct node *temp = head;
+    struct node *temp = head; 
     while (temp != NULL) {
         printf("%d -> ", temp->data);
-        temp = temp->next;
+        temp = temp->next; 
     }
     printf("NULL\n");
     return 0;
