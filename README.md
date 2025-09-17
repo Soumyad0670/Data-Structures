@@ -1,8 +1,3 @@
-Cool project! I can help you craft a README.md that’s more interactive, professional and helpful. You can tweak as needed. Here’s a proposed full README — you can copy/paste into your repo and adjust:
-
----
-
-````markdown
 # 📚 Data Structures — Soumyadeep Dutta
 
 > A clean, commented collection of core data structures implemented in C (or your chosen language). Great for learning, interview prep & strengthening foundations.
@@ -86,7 +81,6 @@ Data-Structures/
     ├── menu_driven.c
     ├── helper_functions.c
     └── …
-````
 
 *(Adjust the names/folders if your code layout is slightly different.)*
 
